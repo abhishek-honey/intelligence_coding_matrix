@@ -1,4 +1,4 @@
-# Github Coding Matrix: Technical Architecture & First-Principles Archive 🧠📜
+# Intelligence Coding Matrix: Technical Architecture & First-Principles Archive 🧠📜
 
 * [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@abhishekkumarhoney)
 * [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -6,7 +6,7 @@
 * > *"What we know is a drop, what we don't is an ocean."*
 
 ### 👨‍💻 Executive Summary
-* Welcome to the technical documentation and architecture repository for **Github Coding Matrix**.
+* Welcome to the technical documentation and architecture repository for **Intelligence Coding Matrix**.
 * This archive serves as a centralized knowledge base detailing complex system design, highly scalable distributed architecture, AI infrastructure deployments, and the mathematical first-principles governing them.
 * Engineered with a focus on enterprise-grade performance, this content decodes the internal mechanics of high-throughput systems, massive-scale databases processing 3-billion+ row datasets, and modern AI—moving beyond high-level abstractions to analyze bare-metal realities and core Java implementations.
 
